@@ -1,5 +1,3 @@
-// const ListNode = require('../extensions/list-node');
-/**
  * Implement the Queue with a given interface via linked list (use ListNode extension above).
  *
  * @example
